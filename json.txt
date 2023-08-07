@@ -1,0 +1,16 @@
+{
+ "name": "John",
+ "age": 30,
+ "city": "New York",
+ "hasChildren": false,
+ "children": [
+   {
+     "name": "Alice",
+     "age": 5
+   },
+   {
+     "name": "Bob",
+     "age": 7
+   }
+ ]
+}
